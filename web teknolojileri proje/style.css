@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-image: url("../img/header-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #333;
+}
+
+h1, h2  {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+img {
+  max-height: 200px;
+  margin-bottom: 10px;
+}
+.egitim-baslik {
+  color: red;
+  font-size: 2rem; 
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
